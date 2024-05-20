@@ -1,6 +1,8 @@
-Credit Card Fraud Detection
+ # **Credit Card Fraud Detection**
+                                                                                                         
 
-![images](https://github.com/09263/Credit_Card_-Fraud_detection/assets/145003524/83beda90-6db3-46e8-a7e9-303f14d12cc4)
+![image](https://github.com/09263/Credit_Card_-Fraud_detection/assets/145003524/8954a7fc-604c-4080-bcd4-92f78c322ef6)
+
 
 # **Introduction**
 

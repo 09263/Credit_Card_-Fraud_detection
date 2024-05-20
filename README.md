@@ -2,24 +2,25 @@ Credit Card Fraud Detection
 
 ![images](https://github.com/09263/Credit_Card_-Fraud_detection/assets/145003524/83beda90-6db3-46e8-a7e9-303f14d12cc4)
 
-Introduction
+# **Introduction**
 
 📚 This project aims to build and train a model to predict  whether a transaction is fraudulent or not.
 
-Skills/Concepts Developed
+# **Skills/Concepts Developed**
 
 🔍 Data preprocessing, feature engineering, model building, cross-validation, hyperparameter tuning.
 
-Problem Statement
+# **Problem Statement**
 
 🎯 Identify Class imbalance in credit card transactions and improve lending decisions.
 
-Impact of Your Work
+# **Impact of Your Work**
+
 💼 Helps significantly improve security, reduce financial losses, increase customer confidence, and ensure compliance with regulations.
 
-Modeling
+# **Modeling**
 
-Steps:
+**Steps**:
 
 1) Data preprocessing
 2) Feature engineering
@@ -27,21 +28,21 @@ Steps:
 4) Cross-validation
 5) Hyperparameter tuning
 
-   Visualization
+# **Visualization**
 📊 Include visualizations of dataset characteristics, model performance, and feature importance.
 
-Conclusion
+# **Conclusion**
 ✅building a model for credit card fraud detection requires a comprehensive approach that focuses on accuracy, scalability, adaptability, integration, and continuous improvement to effectively safeguard financial transactions and protect customers from fraudulent activities.
 
-Recommendations
+# **Recommendations**
 📈 Continued monitoring and updating of the model with new data to maintain accuracy and relevance.
 
-How to Use
+# **How to Use**
 🔧 Follow the steps outlined in the Jupyter Notebook to train the model and make predictions.
 
-Credits
+# **Credits**
 👨‍💻 This project was completed by [Shalini Bhatia] as part of [Data Science & Data Analysis Bootcamp with UpGrad].
 
-About the Author
+# **About the Author**
 👋 [Shalini Bhatia] is a [Data Scientist] with expertise in [Machine Learning & Deep Learning]. Feel free to reach out for any questions or collaborations at [shalinibhatia48@gmail.com].
 

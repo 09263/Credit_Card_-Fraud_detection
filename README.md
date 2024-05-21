@@ -1,5 +1,5 @@
  # **Credit Card Fraud Detection**
-                                                                                                         
+  Developed a machine learning model to identify and prevent credit card fraud. The project involved data preprocessing, feature engineering, and the use of advanced algorithms like Random Forest and logistic regression. The model was trained on a dataset of anonymized credit card transactions, achieving an accuracy of over 95%. Implemented techniques to handle class imbalance, such as Random under sampling, and evaluated performance using precision, recall, and F1-score metrics. The project also included building a real-time detection system using Python and integrating it with a web application for live monitoring and alerts                                                                                                       
 
 ![image](https://github.com/09263/Credit_Card_-Fraud_detection/assets/145003524/8954a7fc-604c-4080-bcd4-92f78c322ef6)
 
